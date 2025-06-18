@@ -23,8 +23,6 @@ Topik aplikasi adalah **Simulasi Pencatatan Pembayaran SAMSAT Kendaraan**. Aplik
 
 ## Tangkapan Layar
 
-## Tangkapan Layar
-
 Berikut adalah tangkapan layar dari antarmuka aplikasi.
 
 ![Screenshot 1](asset/ss 1.jpg)
