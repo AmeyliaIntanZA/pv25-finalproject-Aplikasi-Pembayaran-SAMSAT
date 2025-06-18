@@ -25,15 +25,15 @@ Topik aplikasi adalah **Simulasi Pencatatan Pembayaran SAMSAT Kendaraan**. Aplik
 
 Berikut adalah tangkapan layar dari antarmuka aplikasi.
 
-![Screenshot](asset/ss-1.jpg)
+![Screenshot](asset/ss 1.jpg)
 
-![Screenshot](asset/ss-2.jpg)
+![Screenshot](asset/ss 2.jpg)
 
-![Screenshot](asset/ss-3.jpg)
+![Screenshot](asset/ss 3.jpg)
 
-![Screenshot](asset/ss-4.jpg)
+![Screenshot](asset/ss 4.jpg)
 
-![Screenshot](asset/ss-5.jpg)
+![Screenshot](asset/ss 5.jpg)
 
 
 
